@@ -14,7 +14,7 @@ In training:
 
 `LOAD_DIR` is the directory that you store your trained model weight
 
-`DECODER_PATH` is the path of the trained model weight
+`DECODER_PATH` is the file path of the trained model weight
 
 Before running the code, download the pre-trained [encoder](https://drive.google.com/file/d/13GnYf6pj0wD7XNWrazMnoQXgUki4Tybp/view?usp=sharing) and [decoder](https://drive.google.com/file/d/1qaAUCV2alrYVrSUyM2PCmYdRuAip_DSP/view?usp=sharing) model weight.
 
